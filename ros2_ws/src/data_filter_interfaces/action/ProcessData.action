@@ -1,0 +1,8 @@
+# Goal: вхідний масив чисел
+int32[] data
+---
+# Result: оброблений масив чисел
+int32[] result_data
+---
+# Feedback: відсоток прогресу
+int32 progress
